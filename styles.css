@@ -34,7 +34,7 @@
     grid-auto-rows: max-content;
     grid-gap: 10px;
 /* Chrome use a fixed height */
-height: max-content;
+height: 300px;
     padding: 10px;
   }
   
